@@ -7,7 +7,7 @@ cookies==2.2.1
 cryptography==1.7.1
 decorator==4.0.11
 facebook-sdk==2.0.0
-Flask==0.12
+Flask==0.12.3
 geopy==1.11.0
 googlefinance==0.7
 httplib2==0.10.3
