@@ -37,7 +37,7 @@ ptyprocess==0.5.1
 pyasn1==0.1.9
 pycosat==0.6.1
 pycparser==2.17
-Pygments==2.1.3
+Pygments>=2.7.4
 pyopenssl>=17.5.0
 python-dotenv==0.6.3
 python-forecastio==1.3.5
